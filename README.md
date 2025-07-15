@@ -1,6 +1,4 @@
-Certainly, Deeraj! Here's a beautifully structured and professional `README.md` file for your GitHub repository titled something like **"Daily Java Problem Solving – July 2025"**. This will document your journey and make it shine ✨ when others visit your repo.
 
----
 
 ## 🧰 Tech Stack Used
 
