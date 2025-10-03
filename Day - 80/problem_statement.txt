@@ -1,0 +1,24 @@
+Problem Solving for the day - 03.10.2025 - Corporate Question 
+
+Write a Java program to generate all possible permutations of a given string.
+
+1.The string may contain unique or repeated characters.
+
+2.Return the list of permutations in any order.
+
+3.If characters are repeated, include all permutations, including duplicates.
+
+Test Case 01 :
+
+Input: str = "XY"
+Output: ["XY", "YX"]
+
+Test Case 02 : 
+
+Input: str = ""
+Output: [""]
+
+Test Case 03 :
+
+Input: str = "P"
+Output: ["P"]
